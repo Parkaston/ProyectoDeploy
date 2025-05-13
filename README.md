@@ -12,7 +12,7 @@
 
 ##[ 🔗 URL de la aplicación](https://proyecto-deploy-ten.vercel.app/)
 
-👉 [https://tu-url-de-vercel.vercel.app]([https://tu-url-de-vercel.vercel.app](https://proyecto-deploy-ten.vercel.app/))
+👉 [(https://proyecto-deploy-ten.vercel.app/)]((https://proyecto-deploy-ten.vercel.app/))
 
 ---
 
