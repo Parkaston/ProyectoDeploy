@@ -1,12 +1,59 @@
-# React + Vite
+# Info Infinita - Instalación Artística Interactiva
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Deploy en Vercel](https://vercel.com/button)](https://vercel.com/)
 
-Currently, two official plugins are available:
+## 🌐 Proyecto Módulo 6 - Escuela Musk
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> Un intento de  crítica visual interactiva sobre la sobreexposición informativa en la era digital.  
+> Desde noticias relevantes hasta un colapso absurdo de datos y memes.  
+> ¿Podrás resistirte a seguir pidiendo "Más"?
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##[ 🔗 URL de la aplicación](https://proyecto-deploy-ten.vercel.app/)
+
+👉 [https://tu-url-de-vercel.vercel.app]([https://tu-url-de-vercel.vercel.app](https://proyecto-deploy-ten.vercel.app/))
+
+---
+
+## 📋 ¿Qué hace esta aplicación?
+
+- Presenta inicialmente noticias serias y relevantes.
+- A medida que el usuario presiona **¿Más?**, las tarjetas rodean el centro en anillos concéntricos.
+- Progresivamente la información se vuelve caótica y absurda (memes, emojis, shitposting).
+- Al alcanzar el nivel máximo, ofrece la opción de **"Volver a las bases"** con recomendaciones de mindfulness y lectura.
+
+Inspirado en la filosofía **neobrutalista** y el concepto de **sobreinformación digital**.
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- React + Vite
+- Material UI
+- CSS Animations
+- Google Fonts (`Space Grotesk`)
+- Vercel (hosting)
+
+---
+
+## 🚀 Cómo desplegarlo nuevamente
+
+1. Clona el repositorio:
+```bash
+git clone https://github.com/tu_usuario/info-infinita.git
+cd info-infinita
+
+2. Instala dependencias: 
+
+npm run dev
+
+3.Build para produccion:
+
+npm run build
+
+
+
+👨‍🎨 Autor
+Guillermo Luna Alvarez
+Estudiante de Full Stack Development - Escuela Musk
