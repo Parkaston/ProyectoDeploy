@@ -52,7 +52,7 @@ npm run dev
 
 npm run build
 
-
+```
 
 👨‍🎨 Autor
 Guillermo Luna Alvarez
